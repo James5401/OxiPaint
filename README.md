@@ -72,4 +72,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed with ❤️ by [Oxide](https://github.com/ultra-dark-mode)**
+**Developed with ❤️ by [James5401](https://github.com/James5401)**
