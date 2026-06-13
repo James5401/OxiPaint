@@ -8,6 +8,8 @@
 
 Ultra Dark Mode (UDM) is a powerful, highly customizable userscript designed to bring a premium dark mode experience to every corner of the web. Unlike simple inversion filters, UDM uses advanced heuristics and site-specific patches to ensure readability and visual harmony.
 
+![Ultra Dark Mode Screenshot](Ultra%20Dark%20Mode%200x!de.png)
+
 ---
 
 ## ✨ Key Features
